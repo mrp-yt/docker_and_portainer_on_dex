@@ -6,7 +6,7 @@
 
 ### Setup process
 
-Download Termux from [F-Droid](https://www.f-droid.org/) app store and install it. 
+Download Termux from [F-Droid](https://www.f-droid.org/) store and install it. 
 
 Setup Alpine VM on Termux with this one-line-install command
 ```
