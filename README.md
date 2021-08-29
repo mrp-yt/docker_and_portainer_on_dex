@@ -28,7 +28,8 @@ Create new `startqemu.sh` file
 nano startqemu.sh
 ```
 
-Copy content bellow in to new `startqemu.sh` file. This will expose nessesary ports to access containers from browser.
+Copy content bellow in to new `startqemu.sh` file. This will expose nessesary ports to access containers from browser.\
+If you want assign more tam to VM amend value in first line. Example `-m 1024` = 1GB ram
 ```
 qemu-system-x86_64 -machine q35 -m 1024 -smp cpus=2 -cpu qemu64 \
 -drive if=pflash,format=raw,read-only,file=$PREFIX/share/qemu/edk2-x86_64-code.fd \
