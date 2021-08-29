@@ -1,1 +1,3 @@
-# docker_portainer_dex
+# Setup Docker with Portainer on Samsung DeX
+
+## big Thanks to ... for making this possible
