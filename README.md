@@ -66,4 +66,5 @@ To access Portainer Dashboard from same device
 ```
 http://localhost:9000
 ```
-To access Portainer Dashboard from another device on same network you will need to know your device local IP address. Example `192.168.*.*`
+To access Portainer Dashboard from another device on same network you will need to know your device local IP address. Example `192.168.*.*` followed by Portainer port `:9000`
+
