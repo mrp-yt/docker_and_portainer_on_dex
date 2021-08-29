@@ -50,8 +50,8 @@ Start Alpine VM using new `startqemu.sh` file
 ./startqemu.sh
 ```
 **NOTE** - Default login details:\
-User root\
-Passwd Secret123
+User `root`\
+Passwd `Secret123`
 
 Portainer-CE container install command
 ```
