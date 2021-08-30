@@ -23,7 +23,7 @@
 
 * Start Alpine VM using new `startqemu.sh` file
   ```
-  cd alpine/ && ./startqemu.sh
+  cd ~/alpine/ && ./startqemu.sh
   ```
   **NOTE** - Default login details:\
   User `root`\
