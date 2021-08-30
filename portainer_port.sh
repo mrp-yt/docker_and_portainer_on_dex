@@ -1,4 +1,4 @@
-cd /alpine &&
+cd ~/alpine/ &&
 # Backup
 mv startqemu.sh bk_startqemu.sh &&
 # curl amended version
