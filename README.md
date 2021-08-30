@@ -11,7 +11,7 @@
 
 * Download Termux from [F-Droid](https://www.f-droid.org/) store and install it. 
 
-* Setup Alpine VM on Termux with this one-line-install command
+* Setup Alpine VM in Termux with this one-line-install command (Thanks to egandro)
   ```
   curl -o termux-setup.sh https://raw.githubusercontent.com/egandro/docker-qemu-arm/master/termux-setup.sh && chmod 755 ./termux-setup.sh && ./termux-setup.sh
   ```
