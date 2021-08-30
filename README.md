@@ -1,6 +1,6 @@
 # Setup Docker with Portainer on Samsung DeX 1.0
 
-## Portainer on DeX \
+## Portainer on DeX
 ![Portainer_on_dex](/assets/images/portainer_on_dex.png)
 
 ## Big Thanks to ... for making this possible
