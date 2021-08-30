@@ -50,5 +50,5 @@
   Example `192.168.*.*` followed by Portainer port `:9000`\
   `http://192.168.123.123:9000`
   
-### Changlog
+### Changelog
   
