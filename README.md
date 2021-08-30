@@ -15,7 +15,7 @@
   ```
   curl -o termux-setup.sh https://raw.githubusercontent.com/egandro/docker-qemu-arm/master/termux-setup.sh && chmod 755 ./termux-setup.sh && ./termux-setup.sh
   ```
-  *Will take around 8 minutes to complete*
+  *This will take around 8 minutes to complete*
 
 * Run curl script. This will backup default `startqemu.sh` that got generated during VM creation and put amended on in it's place.
   ```
