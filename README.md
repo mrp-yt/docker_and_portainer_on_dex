@@ -1,4 +1,4 @@
-# Setup Docker with Portainer on Samsung DeX 1.0
+# Setup Docker with Portainer on Samsung DeX
 
 ## Portainer on DeX
 ![Portainer_on_dex](/assets/images/portainer_on_dex.png)
@@ -49,3 +49,6 @@
   To access Portainer Dashboard from another device on same network you will need to know your device local IP address. \
   Example `192.168.*.*` followed by Portainer port `:9000`\
   `http://192.168.123.123:9000`
+  
+### Changlog
+  
