@@ -3,6 +3,10 @@
 ## Portainer on DeX
 ![Portainer_on_dex](/assets/images/portainer_on_dex.png)
 
+* This is a guide on how to setup Docker and Portainer on Samsung DeX (Android)\
+* [Reddit post](https://www.reddit.com/r/SamsungDex/comments/pegoti/run_docker_containers_on_samsung_dex_bonus/)
+* [MRP YouTube video](https://youtu.be/IthUo9zVfmg)
+
 ## Big Thanks to ... for making this possible
 - https://github.com/egandro/docker-qemu-arm
 - https://gist.github.com/oofnikj/e79aef095cd08756f7f26ed244355d62
