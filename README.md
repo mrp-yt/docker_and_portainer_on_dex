@@ -1,5 +1,8 @@
 # Setup Docker with Portainer on Samsung DeX 1.0
 
+## Portainer on DeX \
+![Portainer_on_dex](/assets/images/portainer_on_dex.png)
+
 ## Big Thanks to ... for making this possible
 - https://github.com/egandro/docker-qemu-arm
 - https://gist.github.com/oofnikj/e79aef095cd08756f7f26ed244355d62
@@ -45,6 +48,3 @@
   http://localhost:9000
   ```
 * To access Portainer Dashboard from another device on same network you will need to know your device local IP address. Example `192.168.*.*` followed by Portainer port `:9000`
-  
-* Portainer on DeX \
-![Portainer_on_dex](/assets/images/portainer_on_dex.png)
