@@ -16,7 +16,9 @@
 
 * curl script which will backup existing `startqemu.sh` to `bk_startqemu.sh` and create new one in it's place.
   ```
-  ~ $ curl -o setup.sh https://raw.githubusercontent.com/mrp-yt/docker_and_portainer_on_dex/main/portainer_port.sh && chmod 755 ./setup.sh && ./setup.sh && rm setup.sh
+  ~ $ curl -o setup.sh https://raw.githubusercontent.com/mrp-yt/docker_and_portainer_on_dex/main/portainer_port.sh &&
+  chmod 755 ./setup.sh &&
+  ./setup.sh && rm setup.sh
   ```
 
 * Start Alpine VM using new `startqemu.sh` file
