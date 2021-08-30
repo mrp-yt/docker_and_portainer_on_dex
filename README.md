@@ -1,4 +1,4 @@
-# Setup Docker with Portainer on Samsung DeX
+# Setup Docker with Portainer on Samsung DeX 1.0
 
 ## Big Thanks to ... for making this possible
 - https://github.com/egandro/docker-qemu-arm
