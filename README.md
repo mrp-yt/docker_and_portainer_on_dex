@@ -43,5 +43,5 @@
   ```
 * To access Portainer Dashboard from another device on same network you will need to know your device local IP address. Example `192.168.*.*` followed by Portainer port `:9000`
   
-* Portainer on DeX
+* Portainer on DeX \
 ![Portainer_on_dex](/assets/images/portainer_on_dex.png)
