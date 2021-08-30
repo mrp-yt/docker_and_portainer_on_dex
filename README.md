@@ -18,7 +18,8 @@
   ```
   curl -o portainer_port.sh https://raw.githubusercontent.com/mrp-yt/docker_and_portainer_on_dex/main/portainer_port.sh &&
   chmod 755 ./portainer_port.sh &&
-  ./portainer_port.sh && rm portainer_port.sh
+  ./portainer_port.sh &&
+  rm portainer_port.sh
   ```
 
 * Start Alpine VM using new `startqemu.sh` file
