@@ -17,7 +17,7 @@
   ```
   *Will take around 8 minutes to complete*
 
-* Run curl script. This will backup existing `startqemu.sh` to `bk_startqemu.sh` and create new one in it's place.
+* Run curl script. This will backup default `startqemu.sh` that got generated during VM creation and put amended on in it's place.
   ```
   curl -o portainer_port.sh https://raw.githubusercontent.com/mrp-yt/docker_and_portainer_on_dex/main/portainer_port.sh &&
   chmod 755 ./portainer_port.sh &&
